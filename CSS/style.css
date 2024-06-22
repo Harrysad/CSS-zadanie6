@@ -1,0 +1,20 @@
+p {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 100px;
+    color: white;
+}
+
+.background {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.transparent {
+    opacity: 0.5;
+}
